@@ -18,6 +18,8 @@ When you access below website and it path /cvs/
 http://testphp.vulnweb.com/CVS/
 
 You are able to access their files which are on their server and nobody from outside should have access to these sensitive files:
+
+
 <img width="283" alt="image" src="https://github.com/archanaheeralal77/Directory-Traversal/assets/127080874/f601caa7-b063-43cf-996d-f55cd339c6ad">
 
 
