@@ -26,4 +26,11 @@ Try to access another url with path /Flash/ - http://testphp.vulnweb.com/Flash/
 <img width="283" alt="image" src="https://github.com/archanaheeralal77/Directory-Traversal/assets/127080874/82963e16-daf0-4f62-b457-152011be5389">
 
 
+Similarly try to access http://testphp.vulnweb.com/.idea/
+
+<img width="287" alt="image" src="https://github.com/archanaheeralal77/Directory-Traversal/assets/127080874/70d6ba6c-619d-496d-a03c-bb7e3e2a0ce4">
+
+
+
+
 
