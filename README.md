@@ -21,3 +21,9 @@ You are able to access their files which are on their server and nobody from out
 <img width="283" alt="image" src="https://github.com/archanaheeralal77/Directory-Traversal/assets/127080874/f601caa7-b063-43cf-996d-f55cd339c6ad">
 
 
+Try to access another url with path /Flash/ - http://testphp.vulnweb.com/Flash/
+
+<img width="283" alt="image" src="https://github.com/archanaheeralal77/Directory-Traversal/assets/127080874/82963e16-daf0-4f62-b457-152011be5389">
+
+
+
