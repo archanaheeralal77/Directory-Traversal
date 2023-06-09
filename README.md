@@ -1,4 +1,4 @@
-Directory Traversal Attacks
+**Directory Traversal Attacks**
 
 Directory traversal or Path traversal attack is web security vulnerability, using this this vulnerability an attacker can read arbitrary files on the server that is running an application.
 
